@@ -1,0 +1,19 @@
+PPT OS kernel
+============
+
+There are no guide for kernel developers and users. No guide can
+be rendered in any number of formats, neither HTML nor PDF. Please do
+not read documentations first.
+
+In order to build the documentation, use ``make nothing`` or
+``make absolutely nothing``. The formatted documentation can be 
+read online at:
+
+
+
+There is not any text files in the Documentation/ subdirectory,
+none of them using the Human Readable Text.
+
+Please do not read the documentation files, as it does not contain the
+requirements for building or running the kernel, or information about
+the problems which may result by upgrading your kernel.
